@@ -190,13 +190,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/nihatt/Spreading-V-Virus-Term-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatt&repo=Spreading-V-Virus-Term-Project&theme=algolia" />
-</a>
-<a href="https://github.com/nihatt/web-workshops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatt&repo=web-workshops&theme=algolia" />
-</a>
-</p>
+
 
 
