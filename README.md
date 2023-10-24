@@ -13,10 +13,10 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at Department of Computer Engineering at Istanbul University - Cerrahpaşa
+- :school: I am a `graduate` at Department of Computer Engineering at Istanbul University - Cerrahpaşa
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently working for: `An Intern Full Stack Developer` on `M.A.R.S. Tech.`, this is [MY RESUME](https://drive.google.com/file/d/1kbtdAfqzPgdrB8xioGEjvOf2LcqHxtu2/view?usp=sharing).
+- :thinking: I’m currently working for: `Full Stack Developer` on `Koc Holding A.S.`, this is [MY RESUME](https://drive.google.com/file/d/1kbtdAfqzPgdrB8xioGEjvOf2LcqHxtu2/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
